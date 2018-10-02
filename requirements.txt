@@ -1,7 +1,8 @@
-jupyter
-numpy
-scikit-learn
+jupyter==1.0.0
+numpy==1.11.1
+scikit-learn==0.17.1
 matplotlib
 pandas
-scipy
-seaborn
+scipy==0.17.1
+seaborn==0.7.1
+ipykernel==4.8.0
