@@ -41,3 +41,6 @@ The dataset used in this project is included as `data.csv`. This dataset has the
 - `sulphates`
 - `alcohol`
 - `quality`
+
+## Author
+Fernando Felix do Nascimento Junior
